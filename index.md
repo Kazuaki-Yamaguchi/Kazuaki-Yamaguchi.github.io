@@ -37,6 +37,6 @@
 詳しい研究業績（論文・学会発表・受賞歴など）については、以下の外部データベースをご覧ください。
 
 * **researchmap**：[https://researchmap.jp/read0186019](https://researchmap.jp/read0186019)
-* **Google Scholar**：[https://scholar.google.com/citations?user=IDIKCJ8AAAAJ&hl=ja]
-* **大学教員紹介ページ**：[https://nyushi.otemon.ac.jp/education/science-engineering/teacher-list/professor_yamaguchi.html]
+* **Google Scholar**：[https://scholar.google.com/citations?user=IDIKCJ8AAAAJ&hl=ja](https://scholar.google.com/citations?user=IDIKCJ8AAAAJ&hl=ja)
+* **大学教員紹介ページ**：[https://nyushi.otemon.ac.jp/education/science-engineering/teacher-list/professor_yamaguchi.html](https://nyushi.otemon.ac.jp/education/science-engineering/teacher-list/professor_yamaguchi.html)
 * **E-mail**：`yamaguchi [at] otemon.ac.jp`（※スパム対策のため `[at]` を `@` に置き換えてください）
